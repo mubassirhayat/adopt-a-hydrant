@@ -1,4 +1,4 @@
-# Adopt-a-Hydrant
+# Adopt-a-Trash-Can
 
 [![Build Status](http://img.shields.io/travis/codeforamerica/adopt-a-hydrant.svg)][travis]
 [![Dependency Status](http://img.shields.io/gemnasium/codeforamerica/adopt-a-hydrant.svg)][gemnasium]
@@ -8,16 +8,16 @@
 [gemnasium]: https://gemnasium.com/codeforamerica/adopt-a-hydrant
 [coveralls]: https://coveralls.io/r/codeforamerica/adopt-a-hydrant
 
-Claim responsibility for shoveling out a fire hydrant after it snows.
+Claim responsibility for emptying a Trash Can regularly.
 
 ## Screenshot
-![Adopt-a-Hydrant](https://github.com/codeforamerica/adopt-a-hydrant/raw/master/screenshot.png "Adopt-a-Hydrant")
+![Adopt-a-Trash-Can](https://github.com/mubassirhayat/adopt-a-trash-can/raw/master/screenshot.png "Adopt-a-Trash-Can")
 
 ## Demo
 You can see a running version of the application at
-[http://adopt-a-hydrant.herokuapp.com/][demo].
+[https://hidden-meadow-28623.herokuapp.com/][demo].
 
-[demo]: http://adopt-a-hydrant.herokuapp.com/
+[demo]: https://hidden-meadow-28623.herokuapp.com/
 
 ## Installation
 This application requires [Postgres](http://www.postgresql.org/) to be installed

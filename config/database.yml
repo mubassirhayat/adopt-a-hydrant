@@ -1,8 +1,8 @@
 development: &DEVELOPMENT
   adapter: postgresql
   database: adopt_a_thing_development
-  username: mubassir
-  password: 0219
+  # username: mubassir
+  # password: 0219
   host: localhost
 
 # Warning: The database defined as "test" will be erased and

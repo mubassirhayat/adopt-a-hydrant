@@ -5,7 +5,7 @@ class AddressesControllerTest < ActionController::TestCase
     stub_request(:get, 'https://maps.google.com/maps/api/geocode/json').
       with(query: {address: 'City Hall, Boston, MA', sensor: 'false'}).
       to_return(body: File.read(File.expand_path('../../fixtures/city_hall.json', __FILE__)))
-    get :show, address: 'City Hall', city_state: 'Boston, MA', format: 'json'
+    get :show, address: 'UET Peshawar', city_state: 'Peshawar, KP', format: 'json'
     assert_not_nil assigns :address
   end
 

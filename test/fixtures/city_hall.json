@@ -13,13 +13,13 @@
                "types" : [ "street_number" ]
             },
             {
-               "long_name" : "City Hall Square",
-               "short_name" : "City Hall Square",
+               "long_name" : "UET Peshawar",
+               "short_name" : "UET Peshawar",
                "types" : [ "route" ]
             },
             {
-               "long_name" : "Downtown",
-               "short_name" : "Downtown",
+               "long_name" : "University Town",
+               "short_name" : "University Town",
                "types" : [ "neighborhood", "political" ]
             },
             {

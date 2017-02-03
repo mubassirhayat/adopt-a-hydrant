@@ -31,7 +31,7 @@ en:
     state: "MA"
     thing: "trash-can"
     this_thing: "This Trash-Can"
-    tagline: "Claim responsibility for shoveling out a fire trash-can after it snows."
+    tagline: "Claim responsibility for shoveling out a fire trash-can after it gets filled."
     tos: "By signing up, you agree to the %{tos}."
     voice_number: "617-555-1212"
     zip: "02201-2013"
